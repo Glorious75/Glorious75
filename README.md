@@ -24,7 +24,7 @@ I am a **Strategic Business Analyst and AI Automation Specialist** with over a d
 I combine **business analysis thinking** with **automation engineering** to design intelligent workflows that eliminate repetitive tasks, reduce operational costs, and free up teams for work that actually moves the needle.
 
 - 🌍 Based in **Nigeria** | Open to remote & international opportunities
-- 🎓 MSc Business Analytics & Healthcare Management — *Robert Gordon University (Incoming)*
+- 🎓 MBA Business Analysis  — 10Alytics, December 2025
 - 🤖 Automation toolkit: **n8n · Zapier · Make.com · Airtable · Monday.com · GoHighLevel**
 - 📊 Analytics: **Power BI · SQL · Excel · Google Data Analytics**
 - 🏆 **Best Zapier Student** — Koka Academy Ltd, 2026
