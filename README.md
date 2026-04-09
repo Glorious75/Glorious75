@@ -7,7 +7,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gloria%20Njorteah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gloria-njorteah/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-AI%20Automation%20Studio-00897B?style=for-the-badge&logo=vercel&logoColor=white)](https://lovable.dev/projects/9e25fea1-9773-4028-8a88-1a12a944d596)
+[![Portfolio](https://img.shields.io/badge/Portfolio-AI%20Automation%20Studio-00897B?style=for-the-badge&logo=vercel&logoColor=white)](https://gloria-automates-shine.lovable.app/)
 [![Email](https://img.shields.io/badge/Email-gnjorteah%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gnjorteah@gmail.com)
 [![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/glorian)
 
@@ -24,6 +24,7 @@ I am a **Strategic Business Analyst and AI Automation Specialist** with over a d
 I combine **business analysis thinking** with **automation engineering** to design intelligent workflows that eliminate repetitive tasks, reduce operational costs, and free up teams for work that actually moves the needle.
 
 - 🌍 Based in **Nigeria** | Open to remote & international opportunities
+- 🎓 MSc Business Analytics & Healthcare Management — *Robert Gordon University (Incoming)*
 - 🤖 Automation toolkit: **n8n · Zapier · Make.com · Airtable · Monday.com · GoHighLevel**
 - 📊 Analytics: **Power BI · SQL · Excel · Google Data Analytics**
 - 🏆 **Best Zapier Student** — Koka Academy Ltd, 2026
@@ -102,6 +103,17 @@ A fully relational database management system for a tutoring company with 100+ s
 A clean, functional CRM and lead pipeline built on Monday.com. 5-stage pipeline tracking leads from New to Won, Kanban view, 4 live automations including follow-up reminders and won deal routing, plus a live reporting dashboard showing £14,000 total pipeline value.
 
 [![View Repo](https://img.shields.io/badge/View%20Repo-0D1B2A?style=flat-square&logo=github&logoColor=white)](https://github.com/Glorious75/Monday-CRM-Leads-Pipeline-System)
+
+---
+
+### ⚡ Make.com Automated Client Onboarding — FlowStack Solutions
+**Tools:** Make.com · Airtable · Google Forms · Google Drive · Gmail · Slack
+
+A fully automated 6-step client onboarding pipeline built on Make.com. From the moment a client submits a form, the system automatically creates a CRM record in Airtable, generates a dedicated Google Drive workspace, sends a branded welcome email and notifies the internal team via Slack — all in under 2 minutes with zero manual effort. 10 clients onboarded live.
+
+**Impact: 98 minutes saved per client. £0 ongoing labour cost.**
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-0D1B2A?style=flat-square&logo=github&logoColor=white)](https://github.com/Glorious75/Make-FlowStack-Client-Onboarding-Automation)
 
 ---
 
@@ -209,11 +221,10 @@ An operational optimisation project for Unilever's online food delivery channel,
 
 *Have an automation project in mind? I would love to help.*
 
-[![Portfolio](https://img.shields.io/badge/View%20My%20Portfolio-0D1B2A?style=for-the-badge&logo=vercel&logoColor=white)](https://lovable.dev/projects/9e25fea1-9773-4028-8a88-1a12a944d596)
+[![Portfolio](https://img.shields.io/badge/View%20My%20Portfolio-0D1B2A?style=for-the-badge&logo=vercel&logoColor=white)](https://gloria-automates-shine.lovable.app/)
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gloria-njorteah/)
 [![Email](https://img.shields.io/badge/Send%20Me%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gnjorteah@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1B2A&height=100&section=footer" />
 
 </div>
-
