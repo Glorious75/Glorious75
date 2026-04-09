@@ -55,6 +55,7 @@ I combine **business analysis thinking** with **automation engineering** to desi
 A 7-workflow AI voice agent built for Gold Coast Kitchen restaurant. Ruby handles inbound calls 24/7 — taking orders, managing bookings, looking up client records, and sending automated email notifications. Zero missed calls. Zero manual effort.
 
 [![View Repo](https://img.shields.io/badge/View%20Repo-0D1B2A?style=flat-square&logo=github&logoColor=white)](https://github.com/Glorious75/Ruby-AI-Voice-Receptionist-VAPI-n8n)
+[![Demo Video](https://img.shields.io/badge/Demo%20Video-FF0000?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1FE6AYjVeGXf2Gne0uR9tyyjFxdwCkbfA/view?usp=sharing)
 
 ---
 
@@ -73,6 +74,7 @@ A multi-tier client intake system with 3 conditional paths — Premium, Standard
 An automated hiring pipeline screening 20–50 applications per week. Routes Senior candidates to Slack and Junior candidates to Google Sheets. V2 adds a 30-minute delay, Sales Manager email alerts, and a 6PM daily digest — all triggered automatically from a Google Form submission.
 
 [![View Repo](https://img.shields.io/badge/View%20Repo-0D1B2A?style=flat-square&logo=github&logoColor=white)](https://github.com/Glorious75/Zapier-HR-Hiring-Pipeline-TechNova)
+[![Demo Video](https://img.shields.io/badge/Demo%20Video-FF0000?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1TeQELLt6AV2X7J5RJrnm0g8Oq5h-exED/view?usp=sharing)
 
 ---
 
@@ -94,6 +96,7 @@ A fully relational database management system for a tutoring company with 100+ s
 **Impact: 15 hours/week saved in manual admin tasks.**
 
 [![View Repo](https://img.shields.io/badge/View%20Repo-0D1B2A?style=flat-square&logo=github&logoColor=white)](https://github.com/Glorious75/Airtable-Tutoring-Management-System)
+[![Demo Video](https://img.shields.io/badge/Demo%20Video-FF0000?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1r3oTjL5U0M3CoiCANZMqtJWItWv-eaM6/view?usp=sharing)
 
 ---
 
@@ -103,6 +106,7 @@ A fully relational database management system for a tutoring company with 100+ s
 A clean, functional CRM and lead pipeline built on Monday.com. 5-stage pipeline tracking leads from New to Won, Kanban view, 4 live automations including follow-up reminders and won deal routing, plus a live reporting dashboard showing £14,000 total pipeline value.
 
 [![View Repo](https://img.shields.io/badge/View%20Repo-0D1B2A?style=flat-square&logo=github&logoColor=white)](https://github.com/Glorious75/Monday-CRM-Leads-Pipeline-System)
+[![Demo Video](https://img.shields.io/badge/Demo%20Video-FF0000?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1ZDivn1iouPm9FudzHx42Cy0d1PMoQcJz/view?usp=sharing)
 
 ---
 
